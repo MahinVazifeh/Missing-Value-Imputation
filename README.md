@@ -1,5 +1,5 @@
 # Missing-Value-Imputation
-This repository consist of several missing vlaue imputetion methods
+This repository consist of several Missing Vlaue Imputetion Methods
 
 My master thesis resulted in an Elsevier Journal with impact Factor 13.472: 
 
